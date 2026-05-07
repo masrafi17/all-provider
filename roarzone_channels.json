@@ -1,0 +1,600 @@
+{
+  "success": true,
+  "total_channels": 99,
+  "channels": [
+    {
+      "id": "edge2/tsports",
+      "title": "t sports",
+      "logo": "https://tvassets.roarzone.net/images/102.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/gazi",
+      "title": "gazi tv",
+      "logo": "https://tvassets.roarzone.net/images/1.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/star-sports-1",
+      "title": "star sports 1",
+      "logo": "https://tvassets.roarzone.net/images/25.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/star-sports-2",
+      "title": "star sports 2",
+      "logo": "https://tvassets.roarzone.net/images/26.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/star-sports-select-1",
+      "title": "star sports select 1",
+      "logo": "https://tvassets.roarzone.net/images/27.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/star-sports-select-2",
+      "title": "star sports select 2",
+      "logo": "https://tvassets.roarzone.net/images/28.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/ptv-sports",
+      "title": "ptv spotrs",
+      "logo": "https://tvassets.roarzone.net/images/73.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/a-sports",
+      "title": "asports",
+      "logo": "https://tvassets.roarzone.net/images/add-sports-1.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge3/sony-sports-ten-1-hd",
+      "title": "sony ten 1",
+      "logo": "https://tvassets.roarzone.net/images/20.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge3/sony-sports-ten-2-hd",
+      "title": "sony ten 2",
+      "logo": "https://tvassets.roarzone.net/images/21.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge4/Sony-Ten-3",
+      "title": "sony ten 3",
+      "logo": "https://tvassets.roarzone.net/images/22.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge3/sony-sports-ten-5-hd",
+      "title": "sony six",
+      "logo": "https://tvassets.roarzone.net/images/24.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge3/euro-sport-hd",
+      "title": "euro sports",
+      "logo": "https://tvassets.roarzone.net/images/euro_sports_hd.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge3/sony-ten-cricket",
+      "title": "ten cricket",
+      "logo": "https://tvassets.roarzone.net/images/ten_cricket.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge4/WILLOW-TV",
+      "title": "willow",
+      "logo": "https://tvassets.roarzone.net/images/70.png",
+      "category": "sports"
+    },
+    {
+      "id": "edge2/star-gold",
+      "title": "star gold",
+      "logo": "https://tvassets.roarzone.net/images/75.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/sony-entertainment-television-hd",
+      "title": "sony tv",
+      "logo": "https://tvassets.roarzone.net/images/38.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/sony-max",
+      "title": "sony max",
+      "logo": "https://tvassets.roarzone.net/images/sonymax.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/sony-max-hd",
+      "title": "sony max hd",
+      "logo": "https://tvassets.roarzone.net/images/sonymaxhd.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge2/colors",
+      "title": "colors",
+      "logo": "https://tvassets.roarzone.net/images/68.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/sony-max-2",
+      "title": "sony max 2",
+      "logo": "https://tvassets.roarzone.net/images/sonymax2.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/zee-tv-hd",
+      "title": "zee tv",
+      "logo": "https://tvassets.roarzone.net/images/40.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/zee-cinema-hd",
+      "title": "zee cinema",
+      "logo": "https://tvassets.roarzone.net/images/76.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/zee-bollywood",
+      "title": "zee bollywood",
+      "logo": "https://tvassets.roarzone.net/images/94.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/zee-action",
+      "title": "zee action",
+      "logo": "https://tvassets.roarzone.net/images/90.png",
+      "category": "hindi"
+    },
+    {
+      "id": "bk/67",
+      "title": "star plus",
+      "logo": "https://tvassets.roarzone.net/images/67.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/tv-hd",
+      "title": "and tv hd",
+      "logo": "https://tvassets.roarzone.net/images/74.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/pictures-hd",
+      "title": "and pictures",
+      "logo": "https://tvassets.roarzone.net/images/100.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/hum",
+      "title": "hum tv",
+      "logo": "https://tvassets.roarzone.net/images/humtv.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/zee-anmol",
+      "title": "zee-anmol",
+      "logo": "https://tvassets.roarzone.net/images/zee-anmol.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/hum-masala",
+      "title": "hum masala",
+      "logo": "https://tvassets.roarzone.net/images/hummasala.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/hum-sitaray",
+      "title": "hum sitarey",
+      "logo": "https://tvassets.roarzone.net/images/humsitarey.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/b4u-movies-apac",
+      "title": "b4u movies",
+      "logo": "https://tvassets.roarzone.net/images/b4umovies.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/sony-sab-hd",
+      "title": "sony sab",
+      "logo": "https://tvassets.roarzone.net/images/36.png",
+      "category": "hindi"
+    },
+    {
+      "id": "edge3/discovery-hd",
+      "title": "discovery hd",
+      "logo": "https://tvassets.roarzone.net/images/43.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/discovery-science",
+      "title": "discovery science",
+      "logo": "https://tvassets.roarzone.net/images/discoveryscience.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/discovery-turbo",
+      "title": "discovery turbo",
+      "logo": "https://tvassets.roarzone.net/images/discoveryturbo.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/investigation-discovery-hd",
+      "title": "discovery hd investigation",
+      "logo": "https://tvassets.roarzone.net/images/discoveryhdInvestigation.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/cnn",
+      "title": "cnn",
+      "logo": "https://tvassets.roarzone.net/images/cnn.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/sony-bbc-earth-hd",
+      "title": "sony bbc earth hd",
+      "logo": "https://tvassets.roarzone.net/images/44.png",
+      "category": "documentary"
+    },
+    {
+      "id": "bk/35",
+      "title": "natgeo",
+      "logo": "https://tvassets.roarzone.net/images/35.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge3/animal-planet-hd",
+      "title": "animal planet",
+      "logo": "https://tvassets.roarzone.net/images/animalplanet.png",
+      "category": "documentary"
+    },
+    {
+      "id": "edge2/star-jalsha",
+      "title": "star jalsha",
+      "logo": "https://tvassets.roarzone.net/images/30.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge2/jalsha-movies",
+      "title": "star jalsha movies",
+      "logo": "https://tvassets.roarzone.net/images/31.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge3/zee-bangla",
+      "title": "zee bangla",
+      "logo": "https://tvassets.roarzone.net/images/34.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge3/zee-bangla-cinema",
+      "title": "zee bangla cinema",
+      "logo": "https://tvassets.roarzone.net/images/29.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge2/colors-bangla",
+      "title": "colors bangla",
+      "logo": "https://tvassets.roarzone.net/images/66.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge3/sony-aath",
+      "title": "sony aath",
+      "logo": "https://tvassets.roarzone.net/images/33.png",
+      "category": "inbangla"
+    },
+    {
+      "id": "edge3/cartoon-network-hd",
+      "title": "cartoon network hd",
+      "logo": "https://tvassets.roarzone.net/images/cartoon-network-hd.webp",
+      "category": "kids"
+    },
+    {
+      "id": "edge3/cartoon-network",
+      "title": "cartoon network",
+      "logo": "https://tvassets.roarzone.net/images/cartoon-network.webp",
+      "category": "kids"
+    },
+    {
+      "id": "bk/55",
+      "title": "nick",
+      "logo": "https://tvassets.roarzone.net/images/55.png",
+      "category": "kids"
+    },
+    {
+      "id": "edge3/pogo",
+      "title": "pogo",
+      "logo": "https://tvassets.roarzone.net/images/pogo.png",
+      "category": "kids"
+    },
+    {
+      "id": "edge3/discovery-kids",
+      "title": "discovery kids",
+      "logo": "https://tvassets.roarzone.net/images/discoverykids.png",
+      "category": "kids"
+    },
+    {
+      "id": "edge3/sony-yay",
+      "title": "sony yay",
+      "logo": "https://tvassets.roarzone.net/images/sonyyay.png",
+      "category": "kids"
+    },
+    {
+      "id": "bk/starmovies",
+      "title": "star movies",
+      "logo": "https://tvassets.roarzone.net/images/starmovies.png",
+      "category": "english"
+    },
+    {
+      "id": "edge3/zee-cafe",
+      "title": "zee cafe hd",
+      "logo": "https://tvassets.roarzone.net/images/69.png",
+      "category": "english"
+    },
+    {
+      "id": "edge3/sony-pix-hd",
+      "title": "sony pix",
+      "logo": "https://tvassets.roarzone.net/images/41.png",
+      "category": "english"
+    },
+    {
+      "id": "bk/85",
+      "title": "dw news",
+      "logo": "https://tvassets.roarzone.net/images/85.png",
+      "category": "english"
+    },
+    {
+      "id": "bk/89",
+      "title": "al jazeera",
+      "logo": "https://tvassets.roarzone.net/images/89.png",
+      "category": "english"
+    },
+    {
+      "id": "edge3/tlc-hd",
+      "title": "tlc hd",
+      "logo": "https://tvassets.roarzone.net/images/tlc-hd.webp",
+      "category": "english"
+    },
+    {
+      "id": "bk/58",
+      "title": "gaan bangla",
+      "logo": "https://tvassets.roarzone.net/images/58.png",
+      "category": "music"
+    },
+    {
+      "id": "bk/48",
+      "title": "9xm",
+      "logo": "https://tvassets.roarzone.net/images/48.png",
+      "category": "music"
+    },
+    {
+      "id": "edge3/zing",
+      "title": "zing",
+      "logo": "https://tvassets.roarzone.net/images/93.png",
+      "category": "music"
+    },
+    {
+      "id": "edge3/b4u-music",
+      "title": "b4u music",
+      "logo": "https://tvassets.roarzone.net/images/b4umusic.png",
+      "category": "music"
+    },
+    {
+      "id": "edge3/jamuna-tv",
+      "title": "jamuna tv",
+      "logo": "https://tvassets.roarzone.net/images/13.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/nagorik",
+      "title": "nagorik tv",
+      "logo": "https://tvassets.roarzone.net/images/59.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/channel24",
+      "title": "channel 24",
+      "logo": "https://tvassets.roarzone.net/images/5.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/channel-s",
+      "title": "channel s",
+      "logo": "https://tvassets.roarzone.net/images/channel-s.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/somoy-tv",
+      "title": "somoy tv",
+      "logo": "https://tvassets.roarzone.net/images/17.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/65",
+      "title": "ekushy tv",
+      "logo": "https://tvassets.roarzone.net/images/65.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/asian-tv",
+      "title": "asian tv",
+      "logo": "https://tvassets.roarzone.net/images/62.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/2",
+      "title": "atn bangla",
+      "logo": "https://tvassets.roarzone.net/images/2.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/atn-news",
+      "title": "atn news",
+      "logo": "https://tvassets.roarzone.net/images/49.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/banglavision",
+      "title": "banglavision tv",
+      "logo": "https://tvassets.roarzone.net/images/3.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/global-tv",
+      "title": "global tv",
+      "logo": "https://tvassets.roarzone.net/images/global-tv.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/ananda-tv",
+      "title": "ananda tv",
+      "logo": "https://tvassets.roarzone.net/images/16.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/bangla-tv",
+      "title": "bangla tv",
+      "logo": "https://tvassets.roarzone.net/images/19.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/61",
+      "title": "boishakhi tv",
+      "logo": "https://tvassets.roarzone.net/images/61.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/53",
+      "title": "btv",
+      "logo": "https://tvassets.roarzone.net/images/53.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/84",
+      "title": "btv world",
+      "logo": "https://tvassets.roarzone.net/images/84.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/4",
+      "title": "channel 9",
+      "logo": "https://tvassets.roarzone.net/images/4.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/channel-i",
+      "title": "channel i",
+      "logo": "https://tvassets.roarzone.net/images/6.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/dbc",
+      "title": "dbc news",
+      "logo": "https://tvassets.roarzone.net/images/7.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/ekattor-tv",
+      "title": "ekattor tv",
+      "logo": "https://tvassets.roarzone.net/images/11.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/deepto_tv",
+      "title": "deepto tv",
+      "logo": "https://tvassets.roarzone.net/images/8.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/9",
+      "title": "desh tv",
+      "logo": "https://tvassets.roarzone.net/images/9.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/10",
+      "title": "duronto tv",
+      "logo": "https://tvassets.roarzone.net/images/10.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/independent-tv",
+      "title": "independent tv",
+      "logo": "https://tvassets.roarzone.net/images/12.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge2/mashraga",
+      "title": "maasranga",
+      "logo": "https://tvassets.roarzone.net/images/51.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/50",
+      "title": "mohona tv",
+      "logo": "https://tvassets.roarzone.net/images/50.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/movie-bangla",
+      "title": "movie bangla tv",
+      "logo": "https://tvassets.roarzone.net/images/86.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/56",
+      "title": "my tv",
+      "logo": "https://tvassets.roarzone.net/images/56.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/18",
+      "title": "news24",
+      "logo": "https://tvassets.roarzone.net/images/18.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/54",
+      "title": "ntv",
+      "logo": "https://tvassets.roarzone.net/images/54.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/14",
+      "title": "rtv",
+      "logo": "https://tvassets.roarzone.net/images/14.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/15",
+      "title": "sa tv",
+      "logo": "https://tvassets.roarzone.net/images/15.png",
+      "category": "bangla"
+    },
+    {
+      "id": "bk/88",
+      "title": "sangsad tv",
+      "logo": "https://tvassets.roarzone.net/images/88.png",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/ekhon-tv",
+      "title": "ekhon",
+      "logo": "https://tvassets.roarzone.net/images/ekhon-tv.jpg",
+      "category": "bangla"
+    },
+    {
+      "id": "edge3/bijoy-tv",
+      "title": "bijoy-tv",
+      "logo": "https://tvassets.roarzone.net/images/bijoy-tv.jpg",
+      "category": "bangla"
+    }
+  ]
+}
