@@ -13,79 +13,79 @@
             },
             "streams": [
                 {
-                    "title": "SKY SPORTS FHD",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd",
-                    "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd"
                 },
                 {
-                    "title": "TSN SPORTS FHD",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-                    "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4"
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd"
                 },
                 {
-                    "title": "FANCODE FHD",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
                 },
                 {
-                    "title": "SKY SPORTS 4k",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd",
-                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6"
+                    "Channel_Name": "SKY SPORTS 4k",
+                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd"
                 },
                 {
-                    "title": "SportzX F1 HD",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/49858/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX F1 HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/49858/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "APPLE TV FHD",
-                    "stream_url": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3Nzg0MjA4Mn0.wI57eSX4ERHx1ckODNCWFCUfEb3bE91t_6Cw0ORtF80/f1-on-apple.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "APPLE TV FHD",
+                    "drm_key": "",
+                    "stream_url": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3Nzg0MjA4Mn0.wI57eSX4ERHx1ckODNCWFCUfEb3bE91t_6Cw0ORtF80/f1-on-apple.m3u8"
                 },
                 {
-                    "title": "SKY SPORT F1",
-                    "stream_url": "https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "SKY SPORT F1",
+                    "drm_key": "",
+                    "stream_url": "https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8"
                 },
                 {
-                    "title": "SKY F1 - AQ",
-                    "stream_url": "https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "SKY F1 - AQ",
+                    "drm_key": "",
+                    "stream_url": "https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8"
                 },
                 {
-                    "title": "SKY SPORTS HD",
-                    "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SKY SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 },
                 {
-                    "title": "ELEVEN SPORTS",
-                    "stream_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-                    "drm_key": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
+                    "Channel_Name": "ELEVEN SPORTS",
+                    "drm_key": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+                    "stream_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd"
                 },
                 {
-                    "title": "CANAL+ HD",
-                    "stream_url": "https://instreams.pro/EU/HDTV25/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "drm_key": ""
+                    "Channel_Name": "CANAL+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/EU/HDTV25/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 },
                 {
-                    "title": "Sky F1 DE",
-                    "stream_url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "drm_key": ""
+                    "Channel_Name": "Sky F1 DE",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 },
                 {
-                    "title": "DAZN ES SD",
-                    "stream_url": "https://smarthard.click/hls/RdKfpotjL5g/index.m3u8|Referer=https://hardsmart.click/",
-                    "drm_key": ""
+                    "Channel_Name": "DAZN ES SD",
+                    "drm_key": "",
+                    "stream_url": "https://smarthard.click/hls/RdKfpotjL5g/index.m3u8|Referer=https://hardsmart.click/"
                 },
                 {
-                    "title": "F1 TV FHD",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-                    "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
+                    "Channel_Name": "F1 TV FHD",
+                    "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd"
                 },
                 {
-                    "title": "Fox Sports - AQ",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-                    "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f"
+                    "Channel_Name": "Fox Sports - AQ",
+                    "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
                 }
             ]
         },
@@ -102,39 +102,39 @@
             },
             "streams": [
                 {
-                    "title": "TNT SPORTS - AQ",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875"
+                    "Channel_Name": "TNT SPORTS - AQ",
+                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
                 },
                 {
-                    "title": "FANCODE FHD",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                    "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2"
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
                 },
                 {
-                    "title": "SPO TV - AQ",
-                    "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-                    "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+                    "Channel_Name": "SPO TV - AQ",
+                    "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+                    "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
                 },
                 {
-                    "title": "ZIGGO SPORT - AQ",
-                    "stream_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
-                    "drm_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523"
+                    "Channel_Name": "ZIGGO SPORT - AQ",
+                    "drm_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+                    "stream_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621"
                 },
                 {
-                    "title": "TNT SPORTS SD",
-                    "stream_url": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "drm_key": ""
+                    "Channel_Name": "TNT SPORTS SD",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 },
                 {
-                    "title": "DAZN SPORTS",
-                    "stream_url": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "drm_key": ""
+                    "Channel_Name": "DAZN SPORTS",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 },
                 {
-                    "title": "CANAL+ HD",
-                    "stream_url": "https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-                    "drm_key": ""
+                    "Channel_Name": "CANAL+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 }
             ]
         },
@@ -151,19 +151,19 @@
             },
             "streams": [
                 {
-                    "title": "One Fight - AQ",
-                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-                    "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+                    "Channel_Name": "One Fight - AQ",
+                    "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
                 },
                 {
-                    "title": "Server 2",
-                    "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-                    "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+                    "Channel_Name": "Server 2",
+                    "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+                    "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd"
                 },
                 {
-                    "title": "Server 3",
-                    "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-                    "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
+                    "Channel_Name": "Server 3",
+                    "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+                    "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd"
                 }
             ]
         },
@@ -180,24 +180,24 @@
             },
             "streams": [
                 {
-                    "title": "SportzX WWE",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50439/load-playlist?|Referer=https://gooz.aapmains.net/",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX WWE",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50439/load-playlist?|Referer=https://gooz.aapmains.net/"
                 },
                 {
-                    "title": "SportzX HD",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX HD",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "title": "Backup SD",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "Backup SD",
+                    "drm_key": "",
+                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
                 },
                 {
-                    "title": "Tap Sport LQ",
-                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f"
+                    "Channel_Name": "Tap Sport LQ",
+                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
                 }
             ]
         },
@@ -214,34 +214,34 @@
             },
             "streams": [
                 {
-                    "title": "SportzX WWE",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50251/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX WWE",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50251/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "title": "Backup HD",
-                    "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "Backup HD",
+                    "drm_key": "",
+                    "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/"
                 },
                 {
-                    "title": "Backup SD",
-                    "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-                    "drm_key": ""
+                    "Channel_Name": "Backup SD",
+                    "drm_key": "",
+                    "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com"
                 },
                 {
-                    "title": "USA TV HD",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "USA TV HD",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "title": "USA TV (USA VPN)",
-                    "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
-                    "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
+                    "Channel_Name": "USA TV (USA VPN)",
+                    "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+                    "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd"
                 }
             ]
         },
@@ -258,19 +258,19 @@
             },
             "streams": [
                 {
-                    "title": "HD SERVER",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
                 },
                 {
-                    "title": "Backup SD",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "Backup SD",
+                    "drm_key": "",
+                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
                 },
                 {
-                    "title": "Tap Sports",
-                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f"
+                    "Channel_Name": "Tap Sports",
+                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
                 }
             ]
         },
@@ -287,29 +287,29 @@
             },
             "streams": [
                 {
-                    "title": "TSN SPORTS",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-                    "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b"
+                    "Channel_Name": "TSN SPORTS",
+                    "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
                 },
                 {
-                    "title": "SportzX WWE",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX WWE",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "Fox Sports Premium",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-                    "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+                    "Channel_Name": "Fox Sports Premium",
+                    "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
                 },
                 {
-                    "title": "BACKUP HD",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "BACKUP HD",
+                    "drm_key": "",
+                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
                 },
                 {
-                    "title": "BACKUP SD",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-                    "drm_key": ""
+                    "Channel_Name": "BACKUP SD",
+                    "drm_key": "",
+                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
                 }
             ]
         },
@@ -326,44 +326,44 @@
             },
             "streams": [
                 {
-                    "title": "SKY SPORTS FHD",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd"
                 },
                 {
-                    "title": "WILLOW [Ad-Free]",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd",
-                    "drm_key": "48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff"
+                    "Channel_Name": "WILLOW [Ad-Free]",
+                    "drm_key": "48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd"
                 },
                 {
-                    "title": "PREMIER SPORTS",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 },
                 {
-                    "title": "FANCODE FHD",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
                 },
                 {
-                    "title": "PTV Sports",
-                    "stream_url": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-                    "drm_key": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca"
+                    "Channel_Name": "PTV Sports",
+                    "drm_key": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+                    "stream_url": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd"
                 },
                 {
-                    "title": "TAPMAD - AQ",
-                    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "TAPMAD - AQ",
+                    "drm_key": "",
+                    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
                 },
                 {
-                    "title": "FANCODE - SD",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
+                    "Channel_Name": "FANCODE - SD",
+                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
                 },
                 {
-                    "title": "FOX CRICKET FHD",
-                    "stream_url": "http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts",
-                    "drm_key": ""
+                    "Channel_Name": "FOX CRICKET FHD",
+                    "drm_key": "",
+                    "stream_url": "http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts"
                 }
             ]
         },
@@ -380,74 +380,74 @@
             },
             "streams": [
                 {
-                    "title": "PRIME VIDEO",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b"
+                    "Channel_Name": "PRIME VIDEO",
+                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
                 },
                 {
-                    "title": "WILLOW [Ad Free]",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82"
+                    "Channel_Name": "WILLOW [Ad Free]",
+                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
                 },
                 {
-                    "title": "PRIME HINDI",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab"
+                    "Channel_Name": "PRIME HINDI",
+                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
                 },
                 {
-                    "title": "SKY SPORTS - AQ",
-                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-                    "drm_key": ""
+                    "Channel_Name": "SKY SPORTS - AQ",
+                    "drm_key": "",
+                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
                 },
                 {
-                    "title": "PTV Sports",
-                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9",
-                    "drm_key": ""
+                    "Channel_Name": "PTV Sports",
+                    "drm_key": "",
+                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
                 },
                 {
-                    "title": "S©portzX Live",
-                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
-                    "drm_key": ""
+                    "Channel_Name": "S©portzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
                 },
                 {
-                    "title": "JIO HOTSTAR",
-                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
-                    "drm_key": ""
+                    "Channel_Name": "JIO HOTSTAR",
+                    "drm_key": "",
+                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
                 },
                 {
-                    "title": "WILLOW HD",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-                    "drm_key": ""
+                    "Channel_Name": "WILLOW HD",
+                    "drm_key": "",
+                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
                 },
                 {
-                    "title": "Star Sports [HIN]",
-                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "Star Sports [HIN]",
+                    "drm_key": "",
+                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
                 },
                 {
-                    "title": "STAR ENG - IN",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-                    "drm_key": ""
+                    "Channel_Name": "STAR ENG - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 },
                 {
-                    "title": "STAR HIN - IN",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-                    "drm_key": ""
+                    "Channel_Name": "STAR HIN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 },
                 {
-                    "title": "STAR TAM - IN",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-                    "drm_key": ""
+                    "Channel_Name": "STAR TAM - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 },
                 {
-                    "title": "STAR TEL - IN",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-                    "drm_key": ""
+                    "Channel_Name": "STAR TEL - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 },
                 {
-                    "title": "STAR KAN - IN",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-                    "drm_key": ""
+                    "Channel_Name": "STAR KAN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 }
             ]
         },
@@ -464,19 +464,19 @@
             },
             "streams": [
                 {
-                    "title": "SporTV BR",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733"
+                    "Channel_Name": "SporTV BR",
+                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
                 },
                 {
-                    "title": "FOX DEPORTES",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+                    "Channel_Name": "FOX DEPORTES",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
                 },
                 {
-                    "title": "THMANYAH HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "THMANYAH HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd"
                 }
             ]
         },
@@ -493,9 +493,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -512,19 +512,19 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "Channel_Name": "beIN ENGLISH",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
                 },
                 {
-                    "title": "PREMIER SPORTS",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 },
                 {
-                    "title": "Laliga TV FHD",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+                    "Channel_Name": "Laliga TV FHD",
+                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
                 }
             ]
         },
@@ -541,19 +541,19 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "Channel_Name": "beIN ENGLISH",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
                 },
                 {
-                    "title": "PREMIER SPORTS",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 },
                 {
-                    "title": "Laliga TV FHD",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+                    "Channel_Name": "Laliga TV FHD",
+                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
                 }
             ]
         },
@@ -570,9 +570,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14"
                 }
             ]
         },
@@ -589,9 +589,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14"
                 }
             ]
         },
@@ -608,9 +608,9 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+                    "Channel_Name": "beIN ENGLISH",
+                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
                 }
             ]
         },
@@ -627,9 +627,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX MLB",
-                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -646,9 +646,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX MLB",
-                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -665,9 +665,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX MLB",
-                    "stream_url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -684,9 +684,9 @@
             },
             "streams": [
                 {
-                    "title": "SportzX MLB",
-                    "stream_url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -703,9 +703,9 @@
             },
             "streams": [
                 {
-                    "title": "SKY SPORTS FHD",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd",
-                    "drm_key": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd"
                 }
             ]
         },
@@ -722,24 +722,24 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH FHD",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "Channel_Name": "beIN ENGLISH FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
                 },
                 {
-                    "title": "CBS SPORTS HD",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50365/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "CBS SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50365/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "DAZN SPORTS HD",
-                    "stream_url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "DAZN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 },
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339692.m3u8?txSecret=631242759b5a74e895c32e479eff873a&txTime=6A01D43D",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339692.m3u8?txSecret=631242759b5a74e895c32e479eff873a&txTime=6A01D43D"
                 }
             ]
         },
@@ -756,29 +756,29 @@
             },
             "streams": [
                 {
-                    "title": "COSMOTE Sport HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "COSMOTE Sport HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd"
                 },
                 {
-                    "title": "ELEVEN SPORTS HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "ELEVEN SPORTS HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd"
                 },
                 {
-                    "title": "CBS SPORTS HD",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50364/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "CBS SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50364/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "DAZN SPORTS HD",
-                    "stream_url": "https://mainstreams.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "DAZN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 },
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339695.m3u8?txSecret=146042f2ee428357edbaa6466612b019&txTime=6A01D43D",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339695.m3u8?txSecret=146042f2ee428357edbaa6466612b019&txTime=6A01D43D"
                 }
             ]
         },
@@ -795,39 +795,39 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH FHD",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "Channel_Name": "beIN ENGLISH FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
                 },
                 {
-                    "title": "FOX DEPORTES",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+                    "Channel_Name": "FOX DEPORTES",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
                 },
                 {
-                    "title": "COSMOTE Sport HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "COSMOTE Sport HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd"
                 },
                 {
-                    "title": "ELEVEN SPORTS HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "ELEVEN SPORTS HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
                 },
                 {
-                    "title": "DAZN SPORTS HD",
-                    "stream_url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-                    "drm_key": ""
+                    "Channel_Name": "DAZN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 },
                 {
-                    "title": "PARAMOUNT+ HD",
-                    "stream_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=666d83bb6c45110eb209ae0c5893d845&x-time=1778427300",
-                    "drm_key": ""
+                    "Channel_Name": "PARAMOUNT+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=666d83bb6c45110eb209ae0c5893d845&x-time=1778427300"
                 },
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339702.m3u8?txSecret=4140b10d432e5edd4dfad324436379d9&txTime=6A01F8C9",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339702.m3u8?txSecret=4140b10d432e5edd4dfad324436379d9&txTime=6A01F8C9"
                 }
             ]
         },
@@ -844,34 +844,34 @@
             },
             "streams": [
                 {
-                    "title": "beIN ENGLISH FHD",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+                    "Channel_Name": "beIN ENGLISH FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
                 },
                 {
-                    "title": "TNT SPORTS FHD",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b"
+                    "Channel_Name": "TNT SPORTS FHD",
+                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
                 },
                 {
-                    "title": "COSMOTE Sport HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "COSMOTE Sport HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd"
                 },
                 {
-                    "title": "ELEVEN SPORTS HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "ELEVEN SPORTS HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
                 },
                 {
-                    "title": "SKY SPORTS IT",
-                    "stream_url": "https://storage.googleapis.com/ytnerttunbvgd2/mux_video_ts1/index-1.m3u8",
-                    "drm_key": ""
+                    "Channel_Name": "SKY SPORTS IT",
+                    "drm_key": "",
+                    "stream_url": "https://storage.googleapis.com/ytnerttunbvgd2/mux_video_ts1/index-1.m3u8"
                 },
                 {
-                    "title": "TNT SPORTS HD",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50397/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "TNT SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50397/load-playlist?|Referer=https://gooz.aapmains.net"
                 }
             ]
         },
@@ -888,34 +888,34 @@
             },
             "streams": [
                 {
-                    "title": "ESPN BUNDESLIGA HD",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50366/load-playlist?|Referer=https://gooz.aapmains.net",
-                    "drm_key": ""
+                    "Channel_Name": "ESPN BUNDESLIGA HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50366/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "title": "DAZN DE HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "DAZN DE HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd"
                 },
                 {
-                    "title": "BUNDESLIGA HD",
-                    "stream_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=cc75643c7dba7f61ee6e881408908acb&x-time=1778419440",
-                    "drm_key": ""
+                    "Channel_Name": "BUNDESLIGA HD",
+                    "drm_key": "",
+                    "stream_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=cc75643c7dba7f61ee6e881408908acb&x-time=1778419440"
                 },
                 {
-                    "title": "ELEVEN SPORTS HD",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-                    "drm_key": "0:0"
+                    "Channel_Name": "ELEVEN SPORTS HD",
+                    "drm_key": "0:0",
+                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
                 },
                 {
-                    "title": "SportzX Live",
-                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347605.m3u8?txSecret=b6c637e1de4268677ccbfd0135af1631&txTime=6A01D531",
-                    "drm_key": ""
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347605.m3u8?txSecret=b6c637e1de4268677ccbfd0135af1631&txTime=6A01D531"
                 },
                 {
-                    "title": "SonyLiv [ASIA]",
-                    "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bliga_Ha1005/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-                    "drm_key": ""
+                    "Channel_Name": "SonyLiv [ASIA]",
+                    "drm_key": "",
+                    "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bliga_Ha1005/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com"
                 }
             ]
         }
