@@ -2,8 +2,39 @@
     "name": "Live Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last update time": "09:11:51 PM 12-05-2026",
+    "last update time": "09:14:21 PM 12-05-2026",
     "matches": [
+        {
+            "id": "366",
+            "event_name": "IPL - 01",
+            "status": "LIVE",
+            "eventInfo": {
+                "teamA": "GT",
+                "teamB": "SRH",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+                "eventName": "Gujarat Titans vs Sunrisers Hyderabad",
+                "startTime": "2026/05/12 14:00:00 +0000",
+                "endTime": "2026/05/12 17:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PRIME VIDEO",
+                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "WILLOW [Ad Free]",
+                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "PRIME HINDI",
+                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                }
+            ]
+        },
         {
             "id": "312",
             "event_name": "Formula 1",
@@ -212,79 +243,28 @@
             ]
         },
         {
-            "id": "355",
-            "event_name": "Bangladesh vs Pakistan",
-            "status": "ENDED",
+            "id": "373",
+            "event_name": "San Antonio Spurs",
+            "status": "UPCOMING",
             "eventInfo": {
-                "teamA": "BAN",
-                "teamB": "PAK",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "eventName": "Bangladesh vs Pakistan",
-                "startTime": "2026/05/12 04:00:00 +0000",
-                "endTime": "2026/05/12 11:30:00 +0000"
+                "teamA": "Spurs",
+                "teamB": "Timberwolves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+                "eventName": "San Antonio Spurs vs Minnesota Timberwolves",
+                "startTime": "2026/05/13 00:00:00 +0000",
+                "endTime": "2026/05/13 03:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd"
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "WILLOW [Ad-Free]",
-                    "drm_key": "48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PTV Sports",
-                    "drm_key": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-                    "stream_url": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE - SD",
-                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
-                }
-            ]
-        },
-        {
-            "id": "366",
-            "event_name": "IPL - 01",
-            "status": "LIVE",
-            "eventInfo": {
-                "teamA": "GT",
-                "teamB": "SRH",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-                "eventName": "Gujarat Titans vs Sunrisers Hyderabad",
-                "startTime": "2026/05/12 14:00:00 +0000",
-                "endTime": "2026/05/12 17:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PRIME VIDEO",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "WILLOW [Ad Free]",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PRIME HINDI",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                    "Channel_Name": "TSN SPORTS HD",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
                 }
             ]
         },
@@ -320,6 +300,42 @@
             ]
         },
         {
+            "id": "386",
+            "event_name": "Buffalo Sabres",
+            "status": "UPCOMING",
+            "eventInfo": {
+                "teamA": "Canadiens",
+                "teamB": "Sabres",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+                "eventName": "Montréal Canadiens vs Buffalo Sabres",
+                "startTime": "2026/05/12 23:00:00 +0000",
+                "endTime": "2026/05/13 02:00:00 +0000"
+            },
+            "streams": []
+        },
+        {
+            "id": "387",
+            "event_name": "Golden Knights",
+            "status": "UPCOMING",
+            "eventInfo": {
+                "teamA": "Golden Knights",
+                "teamB": "Ducks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+                "eventName": "Vegas Golden Knights vs Anaheim Ducks",
+                "startTime": "2026/05/13 01:30:00 +0000",
+                "endTime": "2026/05/13 04:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                }
+            ]
+        },
+        {
             "id": "394",
             "event_name": "Milwaukee Brewers",
             "status": "UPCOMING",
@@ -331,6 +347,51 @@
                 "eventName": "Milwaukee Brewers vs San Diego Padres",
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 02:40:00 +0000"
+            },
+            "streams": []
+        },
+        {
+            "id": "395",
+            "event_name": "Arizona Diamondbacks",
+            "status": "UPCOMING",
+            "eventInfo": {
+                "teamA": "Rangers",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "Texas Rangers vs Arizona Diamondbacks",
+                "startTime": "2026/05/13 00:05:00 +0000",
+                "endTime": "2026/05/13 03:05:00 +0000"
+            },
+            "streams": []
+        },
+        {
+            "id": "397",
+            "event_name": "Houston Astros",
+            "status": "UPCOMING",
+            "eventInfo": {
+                "teamA": "Astros",
+                "teamB": "Mariners",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "eventName": "Houston Astros vs Seattle Mariners",
+                "startTime": "2026/05/13 00:10:00 +0000",
+                "endTime": "2026/05/13 03:10:00 +0000"
+            },
+            "streams": []
+        },
+        {
+            "id": "398",
+            "event_name": "Athletics",
+            "status": "UPCOMING",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "eventName": "Athletics vs St. Louis Cardinals",
+                "startTime": "2026/05/13 01:40:00 +0000",
+                "endTime": "2026/05/13 04:40:00 +0000"
             },
             "streams": []
         },
@@ -520,13 +581,7 @@
                 "startTime": "2026/05/12 22:45:00 +0000",
                 "endTime": "2026/05/13 01:45:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "id": "410",
@@ -541,13 +596,7 @@
                 "startTime": "2026/05/12 23:07:00 +0000",
                 "endTime": "2026/05/13 02:07:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH FHD",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "id": "411",
@@ -562,18 +611,7 @@
                 "startTime": "2026/05/12 23:10:00 +0000",
                 "endTime": "2026/05/13 02:10:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "COSMOTE Sport HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd"
-                },
-                {
-                    "Channel_Name": "ELEVEN SPORTS HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "id": "412",
@@ -588,28 +626,7 @@
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 02:40:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH FHD",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FOX DEPORTES",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "COSMOTE Sport HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd"
-                },
-                {
-                    "Channel_Name": "ELEVEN SPORTS HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "id": "413",
@@ -624,28 +641,7 @@
                 "startTime": "2026/05/12 23:15:00 +0000",
                 "endTime": "2026/05/13 01:15:00 +0000"
             },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH FHD",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "TNT SPORTS FHD",
-                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "COSMOTE Sport HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4078/index.mpd"
-                },
-                {
-                    "Channel_Name": "ELEVEN SPORTS HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
-                }
-            ]
+            "streams": []
         },
         {
             "id": "414",
@@ -660,16 +656,51 @@
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 01:40:00 +0000"
             },
+            "streams": []
+        },
+        {
+            "id": "355",
+            "event_name": "Bangladesh vs Pakistan",
+            "status": "ENDED",
+            "eventInfo": {
+                "teamA": "BAN",
+                "teamB": "PAK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "eventName": "Bangladesh vs Pakistan",
+                "startTime": "2026/05/12 04:00:00 +0000",
+                "endTime": "2026/05/12 11:30:00 +0000"
+            },
             "streams": [
                 {
-                    "Channel_Name": "DAZN DE HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd"
                 },
                 {
-                    "Channel_Name": "ELEVEN SPORTS HD",
-                    "drm_key": "0:0",
-                    "stream_url": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd"
+                    "Channel_Name": "WILLOW [Ad-Free]",
+                    "drm_key": "48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "PTV Sports",
+                    "drm_key": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+                    "stream_url": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE - SD",
+                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
                 }
             ]
         }
