@@ -6,6 +6,7 @@ API_URL = os.getenv("FANCODE_API")
 
 OUTPUT_FILE = "Fancode.m3u"
 
+
 def generate_playlist():
     if not API_URL:
         print("❌ FANCODE_API secret not found!")
@@ -15,36 +16,64 @@ def generate_playlist():
 
     try:
         response = requests.get(API_URL, timeout=20)
+        response.raise_for_status()
         data = response.json()
-    except Exception as e:
-        print("❌ Error fetching API:", e)
+
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Request Error: {e}")
+        return
+
+    except ValueError:
+        print("❌ Invalid JSON response!")
         return
 
     matches = data.get("matches", [])
 
-    playlist = "#EXTM3U\n"
+    if not matches:
+        print("❌ No matches found!")
+        return
+
+    playlist = "#EXTM3U\n\n"
+
+    added = 0
 
     for match in matches:
         title = match.get("title", "No Title")
         logo = match.get("src", "")
         group = match.get("event_category", "Fancode")
-        status = match.get("status", "")
-        url = match.get("adfree_url", "")
+        status = match.get("status", "UNKNOWN")
 
-        # stream না থাকলে skip
+        # Main stream link
+        url = match.get("stream_url", "").strip()
+
+        # Empty হলে skip
         if not url:
             continue
 
         name = f"{title} [{status}]"
 
-        playlist += f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n'
-        playlist += f"{url}\n"
+        playlist += (
+            f'#EXTINF:-1 '
+            f'tvg-name="{name}" '
+            f'tvg-logo="{logo}" '
+            f'group-title="{group}",{name}\n'
+        )
 
-    # file save
+        playlist += f"{url}\n\n"
+
+        added += 1
+
+    if added == 0:
+        print("❌ No valid streams found!")
+        return
+
+    # Save playlist
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(playlist)
 
-    print(f"✅ Playlist saved as {OUTPUT_FILE}")
+    print(f"✅ Playlist saved: {OUTPUT_FILE}")
+    print(f"✅ Total Streams Added: {added}")
+
 
 if __name__ == "__main__":
     generate_playlist()
