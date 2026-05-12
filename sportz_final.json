@@ -1,7 +1,7 @@
 {
-    "events": [
+    "matches": [
         {
-            "title": "Formula 1",
+            "event_name": "Formula 1",
             "eventInfo": {
                 "teamA": "Formula 1",
                 "teamB": "Formula 1",
@@ -90,7 +90,7 @@
             ]
         },
         {
-            "title": "MotoGP",
+            "event_name": "MotoGP",
             "eventInfo": {
                 "teamA": "MotoGP",
                 "teamB": "MotoGP",
@@ -139,7 +139,7 @@
             ]
         },
         {
-            "title": "ONE Friday Fights 130",
+            "event_name": "ONE Friday Fights 130",
             "eventInfo": {
                 "teamA": "Friday Fights",
                 "teamB": "Friday Fights",
@@ -168,7 +168,7 @@
             ]
         },
         {
-            "title": "WWE Raw",
+            "event_name": "WWE Raw",
             "eventInfo": {
                 "teamA": "WWE",
                 "teamB": "WWE",
@@ -202,7 +202,7 @@
             ]
         },
         {
-            "title": "WWE Smackdown",
+            "event_name": "WWE Smackdown",
             "eventInfo": {
                 "teamA": "WWE",
                 "teamB": "WWE",
@@ -246,7 +246,7 @@
             ]
         },
         {
-            "title": "WWE NXT",
+            "event_name": "WWE NXT",
             "eventInfo": {
                 "teamA": "NXT",
                 "teamB": "NXT",
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "title": "WWE",
+            "event_name": "WWE",
             "eventInfo": {
                 "teamA": "AEW",
                 "teamB": "AEW",
@@ -314,7 +314,7 @@
             ]
         },
         {
-            "title": "Bangladesh vs Pakistan",
+            "event_name": "Bangladesh vs Pakistan",
             "eventInfo": {
                 "teamA": "BAN",
                 "teamB": "PAK",
@@ -368,7 +368,7 @@
             ]
         },
         {
-            "title": "IPL - 01",
+            "event_name": "IPL - 01",
             "eventInfo": {
                 "teamA": "GT",
                 "teamB": "SRH",
@@ -452,7 +452,7 @@
             ]
         },
         {
-            "title": "Al-Nassr vs Al-Hilal",
+            "event_name": "Al-Nassr vs Al-Hilal",
             "eventInfo": {
                 "teamA": "Al-Nassr",
                 "teamB": "Al-Hilal",
@@ -481,7 +481,7 @@
             ]
         },
         {
-            "title": "Milwaukee Brewers",
+            "event_name": "Milwaukee Brewers",
             "eventInfo": {
                 "teamA": "Brewers",
                 "teamB": "Padres",
@@ -500,7 +500,7 @@
             ]
         },
         {
-            "title": "Celta Vigo vs Levante",
+            "event_name": "Celta Vigo vs Levante",
             "eventInfo": {
                 "teamA": "Celta",
                 "teamB": "Levante",
@@ -529,7 +529,7 @@
             ]
         },
         {
-            "title": "Osasuna vs Atlético Madrid",
+            "event_name": "Osasuna vs Atlético Madrid",
             "eventInfo": {
                 "teamA": "Osasuna",
                 "teamB": "Atl. Madrid",
@@ -558,7 +558,7 @@
             ]
         },
         {
-            "title": "Real Betis vs Elche",
+            "event_name": "Real Betis vs Elche",
             "eventInfo": {
                 "teamA": "Real Betis",
                 "teamB": "Elche",
@@ -577,7 +577,7 @@
             ]
         },
         {
-            "title": "Al-Kholood vs Al-Okhdood",
+            "event_name": "Al-Kholood vs Al-Okhdood",
             "eventInfo": {
                 "teamA": "Al-Kholood",
                 "teamB": "Al-Okhdood",
@@ -596,7 +596,7 @@
             ]
         },
         {
-            "title": "Southampton vs Middlesbrough",
+            "event_name": "Southampton vs Middlesbrough",
             "eventInfo": {
                 "teamA": "Southampton",
                 "teamB": "Middlesbrough",
@@ -615,7 +615,7 @@
             ]
         },
         {
-            "title": "Cleveland Guardians vs Angels",
+            "event_name": "Cleveland Guardians vs Angels",
             "eventInfo": {
                 "teamA": "Guardians",
                 "teamB": "Angels",
@@ -634,7 +634,7 @@
             ]
         },
         {
-            "title": "Baltimore Orioles vs Yankees",
+            "event_name": "Baltimore Orioles vs Yankees",
             "eventInfo": {
                 "teamA": "Orioles",
                 "teamB": "Yankees",
@@ -653,7 +653,7 @@
             ]
         },
         {
-            "title": "Cincinnati Reds vs Nationals",
+            "event_name": "Cincinnati Reds vs Nationals",
             "eventInfo": {
                 "teamA": "Reds",
                 "teamB": "Nationals",
@@ -672,7 +672,7 @@
             ]
         },
         {
-            "title": "Pittsburgh Pirates vs Colorado Rockies",
+            "event_name": "Pittsburgh Pirates vs Colorado Rockies",
             "eventInfo": {
                 "teamA": "Pirates",
                 "teamB": "Rockies",
@@ -691,7 +691,7 @@
             ]
         },
         {
-            "title": "Red Sox vs Philadelphia Phillies",
+            "event_name": "Red Sox vs Philadelphia Phillies",
             "eventInfo": {
                 "teamA": "Red Sox",
                 "teamB": "Phillies",
@@ -710,7 +710,7 @@
             ]
         },
         {
-            "title": "Blue Jays vs Tampa Bay Rays",
+            "event_name": "Blue Jays vs Tampa Bay Rays",
             "eventInfo": {
                 "teamA": "Blue Jays",
                 "teamB": "Rays",
@@ -744,7 +744,7 @@
             ]
         },
         {
-            "title": "New York Mets vs Detroit Tigers",
+            "event_name": "New York Mets vs Detroit Tigers",
             "eventInfo": {
                 "teamA": "Mets",
                 "teamB": "Tigers",
@@ -783,7 +783,7 @@
             ]
         },
         {
-            "title": "White Sox vs Kansas City Royals",
+            "event_name": "White Sox vs Kansas City Royals",
             "eventInfo": {
                 "teamA": "White Sox",
                 "teamB": "Royals",
@@ -832,7 +832,7 @@
             ]
         },
         {
-            "title": "Atlanta Braves vs Chicago Cubs",
+            "event_name": "Atlanta Braves vs Chicago Cubs",
             "eventInfo": {
                 "teamA": "Braves",
                 "teamB": "Cubs",
@@ -876,7 +876,7 @@
             ]
         },
         {
-            "title": "Minnesota Twins vs Miami Marlins",
+            "event_name": "Minnesota Twins vs Miami Marlins",
             "eventInfo": {
                 "teamA": "Twins",
                 "teamB": "Marlins",
