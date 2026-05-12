@@ -1,9 +1,7 @@
 {
     "events": [
         {
-            "id": "312",
             "title": "Formula 1",
-            "image": "o",
             "cat": "F1",
             "eventInfo": {
                 "teamA": "Formula 1",
@@ -11,8 +9,6 @@
                 "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
                 "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
                 "eventName": "Formula 1 - Canada GP",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/22 16:30:00 +0000",
                 "endTime": "2026/05/22 21:30:00 +0000"
             },
@@ -110,9 +106,7 @@
             ]
         },
         {
-            "id": "313",
             "title": "MotoGP",
-            "image": "o",
             "cat": "MotoGP",
             "eventInfo": {
                 "teamA": "MotoGP",
@@ -120,8 +114,6 @@
                 "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
                 "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
                 "eventName": "MotoGP - Gran Premi de Catalunya",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/15 08:45:00 +0000",
                 "endTime": "2026/05/15 14:15:00 +0000"
             },
@@ -171,9 +163,7 @@
             ]
         },
         {
-            "id": "327",
             "title": "ONE Friday Fights 130",
-            "image": "o",
             "cat": "Boxing",
             "eventInfo": {
                 "teamA": "Friday Fights",
@@ -181,8 +171,6 @@
                 "teamAFlag": "https://iili.io/FDjaT1R.md.png",
                 "teamBFlag": "https://iili.io/FDjaT1R.md.png",
                 "eventName": "ONE Friday Fights",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/15 12:30:00 +0000",
                 "endTime": "2026/05/15 16:30:00 +0000"
             },
@@ -208,9 +196,7 @@
             ]
         },
         {
-            "id": "328",
             "title": "WWE Raw",
-            "image": "o",
             "cat": "WWE",
             "eventInfo": {
                 "teamA": "WWE",
@@ -218,8 +204,6 @@
                 "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
                 "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
                 "eventName": "🥊 WWE Monday Night RAW",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/19 00:00:00 +0000",
                 "endTime": "2026/05/19 02:30:00 +0000"
             },
@@ -251,9 +235,7 @@
             ]
         },
         {
-            "id": "329",
             "title": "WWE Smackdown",
-            "image": "o",
             "cat": "WWE",
             "eventInfo": {
                 "teamA": "WWE",
@@ -261,8 +243,6 @@
                 "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
                 "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
                 "eventName": "🥊 WWE Friday Night SmackDown",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/16 00:00:00 +0000",
                 "endTime": "2026/05/16 02:45:00 +0000"
             },
@@ -306,9 +286,7 @@
             ]
         },
         {
-            "id": "337",
             "title": "WWE NXT",
-            "image": "o",
             "cat": "WWE",
             "eventInfo": {
                 "teamA": "NXT",
@@ -316,8 +294,6 @@
                 "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
                 "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
                 "eventName": "🥊 WWE NXT",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/13 00:00:00 +0000",
                 "endTime": "2026/05/13 02:30:00 +0000"
             },
@@ -343,9 +319,7 @@
             ]
         },
         {
-            "id": "354",
             "title": "WWE",
-            "image": "o",
             "cat": "WWE",
             "eventInfo": {
                 "teamA": "AEW",
@@ -353,8 +327,6 @@
                 "teamAFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
                 "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
                 "eventName": "AEW Dynamite",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/14 00:00:00 +0000",
                 "endTime": "2026/05/14 02:30:00 +0000"
             },
@@ -392,9 +364,7 @@
             ]
         },
         {
-            "id": "355",
             "title": "Bangladesh vs Pakistan",
-            "image": "o",
             "cat": "Cricket",
             "eventInfo": {
                 "teamA": "BAN",
@@ -402,7 +372,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
                 "eventName": "Bangladesh vs Pakistan",
-                "eventType": "null",
                 "startTime": "2026/05/12 04:00:00 +0000",
                 "endTime": "2026/05/12 11:30:00 +0000"
             },
@@ -458,9 +427,7 @@
             ]
         },
         {
-            "id": "366",
             "title": "IPL - 01",
-            "image": "o",
             "cat": "Indian Premier League",
             "eventInfo": {
                 "teamA": "GT",
@@ -468,8 +435,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
                 "eventName": "Gujarat Titans vs Sunrisers Hyderabad",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 14:00:00 +0000",
                 "endTime": "2026/05/12 17:45:00 +0000"
             },
@@ -561,9 +526,7 @@
             ]
         },
         {
-            "id": "385",
             "title": "Al-Nassr vs Al-Hilal",
-            "image": "o",
             "cat": "Pro League 🇸🇦",
             "eventInfo": {
                 "teamA": "Al-Nassr",
@@ -571,8 +534,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
                 "eventName": "Al-Nassr vs Al-Hilal",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 18:00:00 +0000",
                 "endTime": "2026/05/12 20:00:00 +0000"
             },
@@ -598,9 +559,7 @@
             ]
         },
         {
-            "id": "394",
             "title": "Milwaukee Brewers",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Brewers",
@@ -608,8 +567,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
                 "eventName": "Milwaukee Brewers vs San Diego Padres",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 02:40:00 +0000"
             },
@@ -623,9 +580,7 @@
             ]
         },
         {
-            "id": "400",
             "title": "Celta Vigo vs Levante",
-            "image": "o",
             "cat": "LaLiga 🇪🇸",
             "eventInfo": {
                 "teamA": "Celta",
@@ -633,8 +588,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
                 "eventName": "Celta Vigo vs Levante",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 17:00:00 +0000",
                 "endTime": "2026/05/12 19:00:00 +0000"
             },
@@ -660,9 +613,7 @@
             ]
         },
         {
-            "id": "401",
             "title": "Osasuna vs Atlético Madrid",
-            "image": "o",
             "cat": "LaLiga 🇪🇸",
             "eventInfo": {
                 "teamA": "Osasuna",
@@ -670,8 +621,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
                 "eventName": "Osasuna vs Atlético Madrid",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 19:30:00 +0000",
                 "endTime": "2026/05/12 21:30:00 +0000"
             },
@@ -697,9 +646,7 @@
             ]
         },
         {
-            "id": "402",
             "title": "Real Betis vs Elche",
-            "image": "o",
             "cat": "LaLiga 🇪🇸",
             "eventInfo": {
                 "teamA": "Real Betis",
@@ -707,8 +654,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
                 "eventName": "Real Betis vs Elche",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 18:00:00 +0000",
                 "endTime": "2026/05/12 20:00:00 +0000"
             },
@@ -722,9 +667,7 @@
             ]
         },
         {
-            "id": "403",
             "title": "Al-Kholood vs Al-Okhdood",
-            "image": "o",
             "cat": "Pro League 🇸🇦",
             "eventInfo": {
                 "teamA": "Al-Kholood",
@@ -732,8 +675,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/336456/image",
                 "eventName": "Al-Kholood vs Al-Okhdood",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 16:20:00 +0000",
                 "endTime": "2026/05/12 18:20:00 +0000"
             },
@@ -747,9 +688,7 @@
             ]
         },
         {
-            "id": "404",
             "title": "Southampton vs Middlesbrough",
-            "image": "o",
             "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
             "eventInfo": {
                 "teamA": "Southampton",
@@ -757,8 +696,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
                 "eventName": "Southampton vs Middlesbrough",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 19:00:00 +0000",
                 "endTime": "2026/05/12 21:00:00 +0000"
             },
@@ -772,9 +709,7 @@
             ]
         },
         {
-            "id": "405",
             "title": "Cleveland Guardians vs Angels",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Guardians",
@@ -782,8 +717,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
                 "eventName": "Cleveland Guardians vs Angels",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 22:10:00 +0000",
                 "endTime": "2026/05/13 01:10:00 +0000"
             },
@@ -797,9 +730,7 @@
             ]
         },
         {
-            "id": "406",
             "title": "Baltimore Orioles vs Yankees",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Orioles",
@@ -807,8 +738,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
                 "eventName": "Baltimore Orioles vs Yankees",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 22:35:00 +0000",
                 "endTime": "2026/05/13 01:35:00 +0000"
             },
@@ -822,9 +751,7 @@
             ]
         },
         {
-            "id": "407",
             "title": "Cincinnati Reds vs Nationals",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Reds",
@@ -832,8 +759,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
                 "eventName": "Cincinnati Reds vs Nationals",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 22:40:00 +0000",
                 "endTime": "2026/05/13 01:40:00 +0000"
             },
@@ -847,9 +772,7 @@
             ]
         },
         {
-            "id": "408",
             "title": "Pittsburgh Pirates vs Colorado Rockies",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Pirates",
@@ -857,8 +780,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
                 "eventName": "Pittsburgh Pirates vs Colorado Rockies",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 22:40:00 +0000",
                 "endTime": "2026/05/13 01:40:00 +0000"
             },
@@ -872,9 +793,7 @@
             ]
         },
         {
-            "id": "409",
             "title": "Red Sox vs Philadelphia Phillies",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Red Sox",
@@ -882,8 +801,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
                 "eventName": "Red Sox vs Philadelphia Phillies",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 22:45:00 +0000",
                 "endTime": "2026/05/13 01:45:00 +0000"
             },
@@ -897,9 +814,7 @@
             ]
         },
         {
-            "id": "410",
             "title": "Blue Jays vs Tampa Bay Rays",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Blue Jays",
@@ -907,8 +822,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
                 "eventName": "Blue Jays vs Tampa Bay Rays",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:07:00 +0000",
                 "endTime": "2026/05/13 02:07:00 +0000"
             },
@@ -940,9 +853,7 @@
             ]
         },
         {
-            "id": "411",
             "title": "New York Mets vs Detroit Tigers",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Mets",
@@ -950,8 +861,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
                 "eventName": "New York Mets vs Detroit Tigers",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:10:00 +0000",
                 "endTime": "2026/05/13 02:10:00 +0000"
             },
@@ -989,9 +898,7 @@
             ]
         },
         {
-            "id": "412",
             "title": "White Sox vs Kansas City Royals",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "White Sox",
@@ -999,8 +906,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
                 "eventName": "White Sox vs Kansas City Royals",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 02:40:00 +0000"
             },
@@ -1050,9 +955,7 @@
             ]
         },
         {
-            "id": "413",
             "title": "Atlanta Braves vs Chicago Cubs",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Braves",
@@ -1060,8 +963,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
                 "eventName": "Atlanta Braves vs Chicago Cubs",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:15:00 +0000",
                 "endTime": "2026/05/13 01:15:00 +0000"
             },
@@ -1105,9 +1006,7 @@
             ]
         },
         {
-            "id": "414",
             "title": "Minnesota Twins vs Miami Marlins",
-            "image": "o",
             "cat": "MLB",
             "eventInfo": {
                 "teamA": "Twins",
@@ -1115,8 +1014,6 @@
                 "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
                 "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
                 "eventName": "Minnesota Twins vs Miami Marlins",
-                "eventType": "null",
-                "isHot": "0",
                 "startTime": "2026/05/12 23:40:00 +0000",
                 "endTime": "2026/05/13 01:40:00 +0000"
             },
