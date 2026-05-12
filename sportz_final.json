@@ -2,12 +2,12 @@
     "name": "Live Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last update time": "09:14:21 PM 12-05-2026",
+    "last update time": "09:26:30 PM 12-05-2026",
     "matches": [
         {
+            "status": "LIVE",
             "id": "366",
             "event_name": "IPL - 01",
-            "status": "LIVE",
             "eventInfo": {
                 "teamA": "GT",
                 "teamB": "SRH",
@@ -36,9 +36,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "312",
             "event_name": "Formula 1",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Formula 1",
                 "teamB": "Formula 1",
@@ -87,9 +87,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "313",
             "event_name": "MotoGP",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "MotoGP",
                 "teamB": "MotoGP",
@@ -123,9 +123,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "327",
             "event_name": "ONE Friday Fights 130",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Friday Fights",
                 "teamB": "Friday Fights",
@@ -154,9 +154,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "328",
             "event_name": "WWE Raw",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "WWE",
                 "teamB": "WWE",
@@ -175,9 +175,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "329",
             "event_name": "WWE Smackdown",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "WWE",
                 "teamB": "WWE",
@@ -196,9 +196,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "337",
             "event_name": "WWE NXT",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "NXT",
                 "teamB": "NXT",
@@ -217,9 +217,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "354",
             "event_name": "WWE",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "AEW",
                 "teamB": "AEW",
@@ -243,9 +243,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "373",
             "event_name": "San Antonio Spurs",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Spurs",
                 "teamB": "Timberwolves",
@@ -269,9 +269,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "385",
             "event_name": "Al-Nassr vs Al-Hilal",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Al-Nassr",
                 "teamB": "Al-Hilal",
@@ -300,9 +300,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "386",
             "event_name": "Buffalo Sabres",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Canadiens",
                 "teamB": "Sabres",
@@ -315,9 +315,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "387",
             "event_name": "Golden Knights",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Golden Knights",
                 "teamB": "Ducks",
@@ -336,9 +336,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "394",
             "event_name": "Milwaukee Brewers",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Brewers",
                 "teamB": "Padres",
@@ -351,9 +351,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "395",
             "event_name": "Arizona Diamondbacks",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Rangers",
                 "teamB": "Diamondbacks",
@@ -366,9 +366,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "397",
             "event_name": "Houston Astros",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Astros",
                 "teamB": "Mariners",
@@ -381,9 +381,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "398",
             "event_name": "Athletics",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Athletics",
                 "teamB": "Cardinals",
@@ -396,9 +396,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "400",
             "event_name": "Celta Vigo vs Levante",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Celta",
                 "teamB": "Levante",
@@ -427,9 +427,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "401",
             "event_name": "Osasuna vs Atlético Madrid",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Osasuna",
                 "teamB": "Atl. Madrid",
@@ -458,9 +458,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "402",
             "event_name": "Real Betis vs Elche",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Real Betis",
                 "teamB": "Elche",
@@ -473,9 +473,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "403",
             "event_name": "Al-Kholood vs Al-Okhdood",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Al-Kholood",
                 "teamB": "Al-Okhdood",
@@ -488,9 +488,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "404",
             "event_name": "Southampton vs Middlesbrough",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Southampton",
                 "teamB": "Middlesbrough",
@@ -509,9 +509,9 @@
             ]
         },
         {
+            "status": "UPCOMING",
             "id": "405",
             "event_name": "Cleveland Guardians vs Angels",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Guardians",
                 "teamB": "Angels",
@@ -524,9 +524,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "406",
             "event_name": "Baltimore Orioles vs Yankees",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Orioles",
                 "teamB": "Yankees",
@@ -539,9 +539,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "407",
             "event_name": "Cincinnati Reds vs Nationals",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Reds",
                 "teamB": "Nationals",
@@ -554,9 +554,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "408",
             "event_name": "Pittsburgh Pirates vs Colorado Rockies",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Pirates",
                 "teamB": "Rockies",
@@ -569,9 +569,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "409",
             "event_name": "Red Sox vs Philadelphia Phillies",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Red Sox",
                 "teamB": "Phillies",
@@ -584,9 +584,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "410",
             "event_name": "Blue Jays vs Tampa Bay Rays",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Blue Jays",
                 "teamB": "Rays",
@@ -599,9 +599,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "411",
             "event_name": "New York Mets vs Detroit Tigers",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Mets",
                 "teamB": "Tigers",
@@ -614,9 +614,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "412",
             "event_name": "White Sox vs Kansas City Royals",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "White Sox",
                 "teamB": "Royals",
@@ -629,9 +629,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "413",
             "event_name": "Atlanta Braves vs Chicago Cubs",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Braves",
                 "teamB": "Cubs",
@@ -644,9 +644,9 @@
             "streams": []
         },
         {
+            "status": "UPCOMING",
             "id": "414",
             "event_name": "Minnesota Twins vs Miami Marlins",
-            "status": "UPCOMING",
             "eventInfo": {
                 "teamA": "Twins",
                 "teamB": "Marlins",
@@ -659,9 +659,9 @@
             "streams": []
         },
         {
+            "status": "ENDED",
             "id": "355",
             "event_name": "Bangladesh vs Pakistan",
-            "status": "ENDED",
             "eventInfo": {
                 "teamA": "BAN",
                 "teamB": "PAK",
