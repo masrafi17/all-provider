@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Mis E Ainak Region Vs Boost Region [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket",Mis E Ainak Region Vs Boost Region [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Lightning Lions Vs Roaring Rhinos [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi",Lightning Lions Vs Roaring Rhinos [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/142479_english_hls_9ff78df23357749_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 tvg-name="Cook Islands Vs Vanuatu [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket",Cook Islands Vs Vanuatu [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142315_english_hls_33679d7fe037687_1ta-di_h264/1080p.m3u8
-
-#EXTINF:-1 tvg-name="River Ranger Vs Roaring Rhinos [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi",River Ranger Vs Roaring Rhinos [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142477_english_hls_09daa7849c97226_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Day 8   Pietrangeli [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis",Day 8   Pietrangeli [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/142642_english_hls_01dd084c2517369_1ta-di_h264/1080p.m3u8
 
