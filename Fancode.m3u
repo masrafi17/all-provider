@@ -1,5 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf",Day 1 [LIVE]
-https://bd-mc-plive.fancode.com/mumbai/142627_english_hls_00988846e891905_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778878687~_GO=Generated~acl=/mumbai/142627_english_hls_00988846e891905_1ta-di_h264/*~Signature=AQoI29KbHDFMJcA-kTobZtyV4e2z-VbKR2pn5hjHWUPN6zT2vYzsVuwue6GhN2g_jf1v-YdJw7wIzObYjkrvy5ijB9AE
+#EXTINF:-1 tvg-name="Sri Lanka A Women Vs New Zealand A Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="Cricket",Sri Lanka A Women Vs New Zealand A Women [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/142510_english_hls_65f3be4ba685626_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Lightning Lions Vs Roaring Rhinos [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="Kabaddi",Lightning Lions Vs Roaring Rhinos [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/142486_english_hls_f780d5038787739_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Catalonia Gp [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="MotoGP",Catalonia Gp [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/139942_english_hls_ebf51c020a40261_1ta-di_h264/1080p5.m3u8
 
