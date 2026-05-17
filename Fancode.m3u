@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Athletic Club Vs Rc Celta [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="Football",Athletic Club Vs Rc Celta [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/131190_english_dash_86743_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs Trinidad & Tobago Red Force [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Guyana Harpy Eagles Vs Trinidad & Tobago Red Force [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/1080p.m3u8
-
 #EXTINF:-1 tvg-name="Sevilla Fc Vs Real Madrid [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Football",Sevilla Fc Vs Real Madrid [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/131199_english_dash_13549_1drmta-di_h264/index.mpd
 
@@ -14,9 +8,6 @@ https://bd-mc-flive.fancode.com/mumbai/131199_hindi_dash_67565_1drmta-di_h264/in
 
 #EXTINF:-1 tvg-name="Sevilla Fc Vs Real Madrid [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="Football",Sevilla Fc Vs Real Madrid [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/131199_bengali_dash_35899_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-name="Ca Osasuna Vs Rcd Espanyol [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="Football",Ca Osasuna Vs Rcd Espanyol [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/131198_english_dash_68529_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-name="Real Oviedo Vs Deportivo Alaves [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131197_5427_RO_ALA_FC-Web.png" group-title="Football",Real Oviedo Vs Deportivo Alaves [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/131197_english_dash_72612_1drmta-di_h264/index.mpd
@@ -36,9 +27,15 @@ https://bd-mc-flive.fancode.com/mumbai/131193_english_dash_72599_1drmta-di_h264/
 #EXTINF:-1 tvg-name="Atletico De Madrid Vs Girona Fc [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png" group-title="Football",Atletico De Madrid Vs Girona Fc [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/131191_english_dash_8350_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-name="Day 1   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis",Day 1   Main Feed [LIVE]
-https://bd-mc-plive.fancode.com/mumbai/142261_english_hls_649061a43666015_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779117542~_GO=Generated~acl=/mumbai/142261_english_hls_649061a43666015_1ta-di_h264/*~Signature=AQoI29JAlemtbejmaiVn8DwuO_nrAX3oa-QBF4DPe5RuXkpuk4ggvlgYkfPoficTpwJGNRSIp1nyA0wyjl0mLHTx8WUB
+#EXTINF:-1 tvg-name="Athletic Club Vs Rc Celta [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="Football",Athletic Club Vs Rc Celta [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/131190_english_dash_86743_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-name="Finals: J. Sinner Vs C. Ruud [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web_1779011889906.jpg" group-title="Tennis",Finals: J. Sinner Vs C. Ruud [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142757_english_hls_27101c767742_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 tvg-name="Guyana Harpy Eagles Vs Trinidad & Tobago Red Force [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket",Guyana Harpy Eagles Vs Trinidad & Tobago Red Force [LIVE]
+https://bd-mc-plive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1779126663~_GO=Generated~acl=/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/*~Signature=AQoI29JJiRgRt0f0G5-duid2cutSJSIc-GYJk9pLF6i062YsHdGt8FkGpERE5mFa5SeDCXtD3eKellEpmmpHTEL5ydMN
+
+#EXTINF:-1 tvg-name="Ca Osasuna Vs Rcd Espanyol [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="Football",Ca Osasuna Vs Rcd Espanyol [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/131198_english_dash_68529_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-name="Day 4 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf",Day 4 [LIVE]
+https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/1080p.m3u8
 
