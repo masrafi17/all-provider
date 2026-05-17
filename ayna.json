@@ -1,4 +1,291 @@
 {
-    "total_channels": 0,
-    "channels": []
+    "total_items": 12,
+    "channels": [
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [
+                    {
+                        "id": "1959dec0-6f7b-4adc-9ede-f4d2f111ae3f",
+                        "title": "Channels",
+                        "type": "channel",
+                        "mode": "regular",
+                        "image": "https://s3.aynaott.com/storage/98dd757ec37cccd1612e5d45ddf55d00"
+                    },
+                    {
+                        "id": "afe752d3-6814-4a88-8863-582c41487b54",
+                        "title": "Sports",
+                        "type": "channel",
+                        "mode": "regular",
+                        "image": "https://s3.aynaott.com/storage/52057b63db3f72fef034b9d14a0bc7be"
+                    },
+                    {
+                        "id": "f567d6f7-48bd-4a0c-b813-98e266bba8db",
+                        "title": "News",
+                        "type": "channel",
+                        "mode": "regular",
+                        "image": "https://s3.aynaott.com/storage/22a39d57f8343e3223b9afef14602612"
+                    },
+                    {
+                        "id": "dc5df982-161a-412e-be42-1577cf70baf9",
+                        "title": "Bangla",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "36ee27a2-07ea-41b6-8c3f-636ac96e750a",
+                        "title": "Kids",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "db187731-dbc9-431e-9a73-08ee545c5736",
+                        "title": "Hindi",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "f253c2f3-76ff-42af-b24c-c68b41bc43fd",
+                        "title": "English",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "51f5b8fb-c046-4a91-8a98-46e8d5c1cf93",
+                        "title": "Religious",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "89b6d641-cd2b-486d-a065-cc8ab6d13348",
+                        "title": "Weather",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "40bc9ce3-e4e0-4b6f-9cb4-b4e3d5c526a6",
+                        "title": "Movie",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "a497d61d-fdbf-49ad-bc6f-8bcd2e13a0c3",
+                        "title": "Music",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "69a87c44-4410-4e0f-8bb0-199cbd19b65c",
+                        "title": "Documentary",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "5429894b-3ca7-4516-9e9b-18fbe3a305eb",
+                        "title": "Favorites",
+                        "type": "channel",
+                        "mode": "favorites"
+                    },
+                    {
+                        "id": "e4fb53c0-e932-416c-9a2a-e1e6e3cc8c41",
+                        "title": "Latest",
+                        "type": "channel",
+                        "mode": "latest"
+                    },
+                    {
+                        "id": "4738788b-c1dd-48fe-ac1f-b902c7407658",
+                        "title": "Urdhu",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "4d3a8c1c-ce9b-4cd4-a4b5-8291f533fea0",
+                        "title": "Arabic",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "fe2b1555-ea79-4901-a2be-1b6a1252cc0e",
+                        "title": "Indian Bangla",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "0fa5d56d-ccb8-4eb4-8223-a981b01499fb",
+                        "title": "Football",
+                        "type": "channel",
+                        "mode": "regular"
+                    },
+                    {
+                        "id": "71613080-2d1f-4fb6-855a-fb48cad3d79b",
+                        "title": "Cricket",
+                        "type": "channel",
+                        "mode": "regular"
+                    }
+                ],
+                "total": 19,
+                "from": 1,
+                "to": 19,
+                "per_page": 1000,
+                "current_page": 1,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 1001,
+                "to": 1000,
+                "per_page": 1000,
+                "current_page": 2,
+                "last_page": 1
+            },
+            "execTime": 8
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 2001,
+                "to": 2000,
+                "per_page": 1000,
+                "current_page": 3,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 3001,
+                "to": 3000,
+                "per_page": 1000,
+                "current_page": 4,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 4001,
+                "to": 4000,
+                "per_page": 1000,
+                "current_page": 5,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 5001,
+                "to": 5000,
+                "per_page": 1000,
+                "current_page": 6,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 6001,
+                "to": 6000,
+                "per_page": 1000,
+                "current_page": 7,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 7001,
+                "to": 7000,
+                "per_page": 1000,
+                "current_page": 8,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 8001,
+                "to": 8000,
+                "per_page": 1000,
+                "current_page": 9,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 9001,
+                "to": 9000,
+                "per_page": 1000,
+                "current_page": 10,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 10001,
+                "to": 10000,
+                "per_page": 1000,
+                "current_page": 11,
+                "last_page": 1
+            },
+            "execTime": 7
+        },
+        {
+            "code": 1,
+            "message": "Success",
+            "content": {
+                "data": [],
+                "total": 19,
+                "from": 11001,
+                "to": 11000,
+                "per_page": 1000,
+                "current_page": 12,
+                "last_page": 1
+            },
+            "execTime": 7
+        }
+    ]
 }
