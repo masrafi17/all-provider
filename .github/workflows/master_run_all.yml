@@ -26,8 +26,14 @@ jobs:
     uses: ./.github/workflows/auto_aynaott.yml
     secrets: inherit
 
-  main_combined:
+  crichd:
     needs: aynaott
+    if: always()
+    uses: ./.github/workflows/CricHD_update_playlist.yml
+    secrets: inherit
+
+  main_combined:
+    needs: crichd
     if: always()
     uses: ./.github/workflows/main_combined.yml
     secrets: inherit
