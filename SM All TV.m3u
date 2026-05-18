@@ -24,6 +24,25 @@ https://bdix.sm-monirulislam-exp.workers.dev/1723/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",BanglaVision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="atnnews.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png" group-title="Bangla News",BD | ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="channel24.bd" tvg-logo="https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj" group-title="Bangla News",BD | Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="ekattor.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-id="INDEPENDENTTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bb/Independent_logo_2011.png" group-title="Bangla News",BD | Independent Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="jamuna.tv" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg" group-title="Bangla News",BD | JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="ntv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangladesh.svg" group-title="Bangla",NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png",Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/29/Channel_24_logo.png",Channel 24
@@ -103,8 +122,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 http://15.235.185.236/hls/bhi.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="BANGLADESHI", ZB Cartoon TV
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",BanglaVision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
@@ -172,24 +190,14 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="Bangla",MU | ZB Music
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangladesh.svg" group-title="Bangla",NTV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+
 #EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="Bangla",R Plus Gold
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sonyaathhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Bangla",SONY AATH HD
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",STAR JALSHA HD (Ads Only)
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-id="atnnews.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png" group-title="Bangla News",BD | ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="channel24.bd" tvg-logo="https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj" group-title="Bangla News",BD | Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="ekattor.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
-#EXTINF:-1 tvg-id="INDEPENDENTTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bb/Independent_logo_2011.png" group-title="Bangla News",BD | Independent Television
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="jamuna.tv" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg" group-title="Bangla News",BD | JAMUNA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
 #EXTINF:-1 tvg-id="BanglaJagoTV" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png" group-title="Bangla News",IN | Bangla Jago TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png" group-title="Bangla News",IN | Calcutta News
